@@ -15,7 +15,7 @@ const socials = [
     icon: Linkedin,
     label: "LinkedIn",
     handle: "linkedin.com/in/rihan-shaikh-freestyle77/",
-    href: personalInfo.linkedin,
+    href: personalInfo.linkedin ,
   },
   {
     icon: Mail,
