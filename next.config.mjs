@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",   // static export — works on Vercel, Netlify, GitHub Pages
+  // output: "export"  ← YEH LINE HATAO
   images: {
-    unoptimized: true, // required for static export
+    unoptimized: true,
   },
 };
 
