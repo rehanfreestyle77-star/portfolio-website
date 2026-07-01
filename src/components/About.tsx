@@ -30,7 +30,7 @@ const pills = [
   "Clean Code Advocate",
   "Game Dev Enthusiast",
   "Android Native",
-  "Open Source ❤",
+  "Open Source ",
 ];
 
 export default function About() {
